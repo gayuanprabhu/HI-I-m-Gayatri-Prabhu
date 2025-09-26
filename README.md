@@ -22,3 +22,29 @@ A passionate Web Developer & Computer engineer
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+🚍 Communication
+➡️ 🧰 Version Control
+➡️ 🔨 Tools
+➡️ 🌐 Web Dev
+➡️ ✨ UI/UX
+➡️ 📜 JavaScript
+➡️ ☕ Java
+➡️ ©️ C/C++
+➡️ 🪒 C#
+➡️ 🐍 Python
+➡️ 🐘 php
+➡️ 💎 Ruby
+➡️ 🦖 Zig
+➡️ 🦾 Rust
+➡️ 🧮 Fortran
+➡️ 🐿️ Go
+➡️ ☎️ Erlang/Elixir
+➡️ 🧊 Apache
+➡️ 📱 Mobile Dev
+➡️ 💾 Database
+➡️ 🤿 DevOps
+➡️ ☁️ Cloud
+➡️ 🤖 AI
+ 🧪 Testing
+ 🖥️ Operating system
